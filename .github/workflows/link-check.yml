@@ -61,7 +61,7 @@ jobs:
 
       - name: Open an issue with the report (weekly run)
         if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: "Link check report"
           content-filepath: ./lychee/out.md
