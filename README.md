@@ -164,7 +164,7 @@ Pick a role and jump to the relevant sections.
 
 ## 🌐 Web Security
 
-<sub>🟢 <b>10</b> free · 💳 <b>1</b> paid · <b>11</b> resources total</sub>
+<sub>🟢 <b>11</b> free · 💳 <b>1</b> paid · <b>12</b> resources total</sub>
 
 
 ### 🟢 Free
@@ -181,6 +181,7 @@ Pick a role and jump to the relevant sections.
 | [PwnFunction](https://www.youtube.com/@PwnFunction) | ⚔️ Web | YouTube | 🟢 | Beginner | Animated explanations of web vulnerabilities |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | ⚔️ Web | Reference | 🟢 | Intermediate | Payload and bypass collection per vulnerability class |
 | [HackTricks – Pentesting Web](https://book.hacktricks.wiki) | ⚔️ Pentest | Wiki | 🟢 | Intermediate–Advanced | Collection of techniques and methodology |
+| [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) | ⚔️ Web | Tool | 🟢 | Intermediate | 200 deterministic scanner modules (headers, CSP, TLS, cookies, subdomain takeover, WordPress, exposed panels); MIT; one-command Docker install |
 
 ### 💳 Paid
 
