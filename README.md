@@ -3,9 +3,8 @@
 <h1 align="center"><img src="assets/banner.svg" alt="Awesome Cybersecurity Resources: free and paid cybersecurity learning resources for pentest, red team, bug bounty, SOC and DFIR" title="Awesome Cybersecurity Resources" width="100%"></h1>
 
 <p>
-<a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://img.shields.io/github/actions/workflow/status/cveburak/awesome-cybersecurity/link-check.yml?style=for-the-badge&amp;label=link%20check" alt="Link check status"></a>
+<a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Link check status" height="28"></a>
 <img src="https://img.shields.io/badge/resources-239-0ea5e9?style=for-the-badge" alt="239 resources">
-<img src="https://img.shields.io/github/last-commit/cveburak/awesome-cybersecurity?style=for-the-badge" alt="Last commit">
 <img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge" alt="PRs welcome">
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-6b7280?style=for-the-badge" alt="CC0 1.0 license"></a>
 </p>
