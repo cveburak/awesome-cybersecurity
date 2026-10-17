@@ -3,9 +3,8 @@
 <h1 align="center"><img src="assets/banner.tr.svg" alt="Awesome Cybersecurity Resources | Siber Güvenlik Kaynakları: pentest, red team, bug bounty, SOC ve DFIR için ücretsiz ve ücretli kaynaklar" title="Awesome Cybersecurity Resources | Siber Güvenlik Kaynakları" width="100%"></h1>
 
 <p>
-<a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://img.shields.io/github/actions/workflow/status/cveburak/awesome-cybersecurity/link-check.yml?style=for-the-badge&amp;label=link%20check" alt="Bağlantı kontrolü durumu"></a>
+<a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Bağlantı kontrolü durumu" height="28"></a>
 <img src="https://img.shields.io/badge/resources-239-0ea5e9?style=for-the-badge" alt="239 kaynak">
-<img src="https://img.shields.io/github/last-commit/cveburak/awesome-cybersecurity?style=for-the-badge" alt="Son commit">
 <img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge" alt="PR'lar açık">
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-6b7280?style=for-the-badge" alt="CC0 1.0 lisansı"></a>
 </p>
