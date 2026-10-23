@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Link check status" height="28"></a>
-<img src="https://img.shields.io/badge/resources-239-0ea5e9?style=for-the-badge" alt="239 resources">
+<img src="https://img.shields.io/badge/resources-240-0ea5e9?style=for-the-badge" alt="240 resources">
 <img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge" alt="PRs welcome">
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-6b7280?style=for-the-badge" alt="CC0 1.0 license"></a>
 </p>
@@ -645,7 +645,7 @@ Pick a role and jump to the relevant sections.
 
 ## 🎙️ Podcasts, News and Newsletters
 
-<sub>🟢 <b>11</b> free · <b>11</b> resources total</sub>
+<sub>🟢 <b>12</b> free · <b>12</b> resources total</sub>
 
 
 ### 🟢 Free
@@ -663,6 +663,7 @@ Pick a role and jump to the relevant sections.
 | [PortSwigger Research](https://portswigger.net/research) | ⚔️ Web | Blog | 🟢 | Web security research |
 | [Google Project Zero](https://googleprojectzero.blogspot.com) | ⚔️ Exploit/RE | Blog | 🟢 | Advanced vulnerability research |
 | [The Record](https://therecord.media) | 🧩 News | News | 🟢 | Cyber policy and incident news |
+| [ICHI Internet Cyber Health Index](https://ichi.global) | 🧩 News | Dashboard | 🟢 | Free, source-transparent daily barometer of internet-wide cyber health; directional signal, not a deterministic risk score. |
 
 <div align="right"><a href="#top">↑ Back to top</a></div>
 
