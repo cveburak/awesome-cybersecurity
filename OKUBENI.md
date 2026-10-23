@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Bağlantı kontrolü durumu" height="28"></a>
-<img src="https://img.shields.io/badge/resources-239-0ea5e9?style=for-the-badge" alt="239 kaynak">
+<img src="https://img.shields.io/badge/resources-240-0ea5e9?style=for-the-badge" alt="240 kaynak">
 <img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge" alt="PR'lar açık">
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-6b7280?style=for-the-badge" alt="CC0 1.0 lisansı"></a>
 </p>
@@ -645,7 +645,7 @@ Bir rol seçin; ilgili bölümlere buradan gidin.
 
 ## 🎙️ Podcast, Haber ve Bültenler
 
-<sub>🟢 <b>11</b> ücretsiz · toplam <b>11</b> kaynak</sub>
+<sub>🟢 <b>12</b> ücretsiz · toplam <b>12</b> kaynak</sub>
 
 
 ### 🟢 Ücretsiz
@@ -663,6 +663,7 @@ Bir rol seçin; ilgili bölümlere buradan gidin.
 | [PortSwigger Research](https://portswigger.net/research) | ⚔️ Web | Blog | 🟢 | Web güvenliği araştırmaları |
 | [Google Project Zero](https://googleprojectzero.blogspot.com) | ⚔️ Exploit/RE | Blog | 🟢 | İleri düzey zafiyet araştırmaları |
 | [The Record](https://therecord.media) | 🧩 Haber | Haber | 🟢 | Siber politika ve olay haberleri |
+| [ICHI İnternet Siber Sağlık Endeksi](https://ichi.global) | 🧩 Haber | Gösterge Paneli | 🟢 | Ücretsiz, kaynak şeffaf internet geneli siber sağlık barometresi; yönsel sinyal, deterministik risk skoru değil. |
 
 <div align="right"><a href="#top">↑ Başa dön</a></div>
 
