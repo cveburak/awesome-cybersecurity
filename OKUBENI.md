@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Bağlantı kontrolü durumu" height="28"></a>
-<img src="https://img.shields.io/badge/resources-239-0ea5e9?style=for-the-badge" alt="239 kaynak">
+<img src="https://img.shields.io/badge/resources-240-0ea5e9?style=for-the-badge" alt="240 kaynak">
 <img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge" alt="PR'lar açık">
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-6b7280?style=for-the-badge" alt="CC0 1.0 lisansı"></a>
 </p>
@@ -36,7 +36,7 @@ Ofansif (pentest, red team, bug bounty) ve defansif (SOC, DFIR, blue team) rolle
 <table>
 <tr><td align="center" width="33%"><a href="#fundamentals"><b>🎓 Temeller</b></a><br><sub>8 kaynak</sub></td><td align="center" width="33%"><a href="#platforms"><b>🧪 Platformlar</b></a><br><sub>16 kaynak</sub></td><td align="center" width="33%"><a href="#web"><b>🌐 Web</b></a><br><sub>11 kaynak</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#api"><b>🔌 API</b></a><br><sub>6 kaynak</sub></td><td align="center" width="33%"><a href="#mobile"><b>📱 Mobil</b></a><br><sub>12 kaynak</sub></td><td align="center" width="33%"><a href="#pentest"><b>🎯 Pentest ve Red Team</b></a><br><sub>13 kaynak</sub></td></tr>
-<tr><td align="center" width="33%"><a href="#blue-team"><b>🛡️ Blue Team</b></a><br><sub>16 kaynak</sub></td><td align="center" width="33%"><a href="#crypto"><b>🔐 Kripto</b></a><br><sub>7 kaynak</sub></td><td align="center" width="33%"><a href="#reverse"><b>🔬 RE ve Malware</b></a><br><sub>12 kaynak</sub></td></tr>
+<tr><td align="center" width="33%"><a href="#blue-team"><b>🛡️ Blue Team</b></a><br><sub>17 kaynak</sub></td><td align="center" width="33%"><a href="#crypto"><b>🔐 Kripto</b></a><br><sub>7 kaynak</sub></td><td align="center" width="33%"><a href="#reverse"><b>🔬 RE ve Malware</b></a><br><sub>12 kaynak</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#cloud"><b>☁️ Bulut</b></a><br><sub>8 kaynak</sub></td><td align="center" width="33%"><a href="#ai"><b>🤖 AI</b></a><br><sub>7 kaynak</sub></td><td align="center" width="33%"><a href="#ctf"><b>🚩 CTF</b></a><br><sub>8 kaynak</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#bug-bounty"><b>💰 Bug Bounty</b></a><br><sub>10 kaynak</sub></td><td align="center" width="33%"><a href="#standards"><b>📐 Standartlar</b></a><br><sub>14 kaynak</sub></td><td align="center" width="33%"><a href="#certs"><b>🏅 Sertifikalar</b></a><br><sub>20 kaynak</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#youtube"><b>📺 YouTube</b></a><br><sub>19 kaynak</sub></td><td align="center" width="33%"><a href="#books"><b>📚 Kitaplar</b></a><br><sub>12 kaynak</sub></td><td align="center" width="33%"><a href="#news"><b>🎙️ Haber</b></a><br><sub>11 kaynak</sub></td></tr>
@@ -287,7 +287,7 @@ Bir rol seçin; ilgili bölümlere buradan gidin.
 
 ## 🛡️ Blue Team, SOC ve DFIR
 
-<sub>🟢 <b>7</b> ücretsiz · 💳 <b>9</b> ücretli · toplam <b>16</b> kaynak</sub>
+<sub>🟢 <b>8</b> ücretsiz · 💳 <b>9</b> ücretli · toplam <b>17</b> kaynak</sub>
 
 
 > LetsDefend, 2025 Eylül'de Hack The Box tarafından satın alındı; içerik HTB ekosistemine entegre ediliyor.
@@ -303,6 +303,7 @@ Bir rol seçin; ilgili bölümlere buradan gidin.
 | [SANS Reading Room](https://www.sans.org/white-papers/) | 🛡️ DFIR | Makale | 🟢 | Orta–İleri | Ücretsiz teknik beyaz kitaplar |
 | [13Cubed](https://www.youtube.com/@13Cubed) | 🛡️ DFIR | YouTube | 🟢 | Orta | DFIR ve olay müdahalesi |
 | [Splunk](https://www.splunk.com) / [Elastic](https://www.elastic.co) ücretsiz eğitimleri | 🛡️ SOC | Eğitim | 🟢 | Başlangıç–Orta | SIEM ve log analizi becerisi için |
+| [Wazuh Alert Manager](https://github.com/xrisbarney/Wazuh-alert-manager) | 🛡️ SOC | Araç | 🟢 | Orta | Alarm triyajı, vaka yönetimi ve otomasyon kuralları için açık kaynaklı Wazuh dashboard eklentisi |
 
 ### 💳 Ücretli
 

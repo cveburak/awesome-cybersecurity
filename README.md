@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml"><img src="https://github.com/cveburak/awesome-cybersecurity/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Link check status" height="28"></a>
-<img src="https://img.shields.io/badge/resources-239-0ea5e9?style=for-the-badge" alt="239 resources">
+<img src="https://img.shields.io/badge/resources-240-0ea5e9?style=for-the-badge" alt="240 resources">
 <img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge" alt="PRs welcome">
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-6b7280?style=for-the-badge" alt="CC0 1.0 license"></a>
 </p>
@@ -36,7 +36,7 @@ Filtered by offensive (pentest, red team, bug bounty) and defensive (SOC, DFIR, 
 <table>
 <tr><td align="center" width="33%"><a href="#fundamentals"><b>🎓 Fundamentals</b></a><br><sub>8 resources</sub></td><td align="center" width="33%"><a href="#platforms"><b>🧪 Platforms</b></a><br><sub>16 resources</sub></td><td align="center" width="33%"><a href="#web"><b>🌐 Web</b></a><br><sub>11 resources</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#api"><b>🔌 API</b></a><br><sub>6 resources</sub></td><td align="center" width="33%"><a href="#mobile"><b>📱 Mobile</b></a><br><sub>12 resources</sub></td><td align="center" width="33%"><a href="#pentest"><b>🎯 Pentest &amp; Red Team</b></a><br><sub>13 resources</sub></td></tr>
-<tr><td align="center" width="33%"><a href="#blue-team"><b>🛡️ Blue Team</b></a><br><sub>16 resources</sub></td><td align="center" width="33%"><a href="#crypto"><b>🔐 Crypto</b></a><br><sub>7 resources</sub></td><td align="center" width="33%"><a href="#reverse"><b>🔬 RE &amp; Malware</b></a><br><sub>12 resources</sub></td></tr>
+<tr><td align="center" width="33%"><a href="#blue-team"><b>🛡️ Blue Team</b></a><br><sub>17 resources</sub></td><td align="center" width="33%"><a href="#crypto"><b>🔐 Crypto</b></a><br><sub>7 resources</sub></td><td align="center" width="33%"><a href="#reverse"><b>🔬 RE &amp; Malware</b></a><br><sub>12 resources</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#cloud"><b>☁️ Cloud</b></a><br><sub>8 resources</sub></td><td align="center" width="33%"><a href="#ai"><b>🤖 AI</b></a><br><sub>7 resources</sub></td><td align="center" width="33%"><a href="#ctf"><b>🚩 CTF</b></a><br><sub>8 resources</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#bug-bounty"><b>💰 Bug Bounty</b></a><br><sub>10 resources</sub></td><td align="center" width="33%"><a href="#standards"><b>📐 Standards</b></a><br><sub>14 resources</sub></td><td align="center" width="33%"><a href="#certs"><b>🏅 Certifications</b></a><br><sub>20 resources</sub></td></tr>
 <tr><td align="center" width="33%"><a href="#youtube"><b>📺 YouTube</b></a><br><sub>19 resources</sub></td><td align="center" width="33%"><a href="#books"><b>📚 Books</b></a><br><sub>12 resources</sub></td><td align="center" width="33%"><a href="#news"><b>🎙️ News</b></a><br><sub>11 resources</sub></td></tr>
@@ -287,7 +287,7 @@ Pick a role and jump to the relevant sections.
 
 ## 🛡️ Blue Team, SOC and DFIR
 
-<sub>🟢 <b>7</b> free · 💳 <b>9</b> paid · <b>16</b> resources total</sub>
+<sub>🟢 <b>8</b> free · 💳 <b>9</b> paid · <b>17</b> resources total</sub>
 
 
 > LetsDefend was acquired by Hack The Box in September 2025; its content is being integrated into the HTB ecosystem.
@@ -303,6 +303,7 @@ Pick a role and jump to the relevant sections.
 | [SANS Reading Room](https://www.sans.org/white-papers/) | 🛡️ DFIR | Article | 🟢 | Intermediate–Advanced | Free technical white papers |
 | [13Cubed](https://www.youtube.com/@13Cubed) | 🛡️ DFIR | YouTube | 🟢 | Intermediate | DFIR and incident response |
 | [Splunk](https://www.splunk.com) / [Elastic](https://www.elastic.co) free training | 🛡️ SOC | Training | 🟢 | Beginner–Intermediate | For building SIEM and log analysis skills |
+| [Wazuh Alert Manager](https://github.com/xrisbarney/Wazuh-alert-manager) | 🛡️ SOC | Tool | 🟢 | Intermediate | Open-source Wazuh dashboard plugin for alert triage, case management and automation rules |
 
 ### 💳 Paid
 
